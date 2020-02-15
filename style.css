@@ -5,7 +5,7 @@
 }
 
 main {
-  background-color: rgb(190, 185, 189);
+  background-color: rgb(8, 4, 48);
 }
 
 .container {
@@ -50,6 +50,7 @@ main {
   color: rgb(176, 175, 177);
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
+  font-weight: bold;
   position: absolute;
   top: 50%;
   left: 50%;
